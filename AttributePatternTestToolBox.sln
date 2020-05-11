@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributePatternTestToolBox", "AttributePatternTestToolBox\AttributePatternTestToolBox.csproj", "{C9771539-CF6B-440D-9A84-823F1861A452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9771539-CF6B-440D-9A84-823F1861A452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9771539-CF6B-440D-9A84-823F1861A452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9771539-CF6B-440D-9A84-823F1861A452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9771539-CF6B-440D-9A84-823F1861A452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82EDC509-2240-4835-B10B-87D000AD2D24}
+	EndGlobalSection
+EndGlobal
